@@ -4,6 +4,6 @@ source "http://rubygems.org"
 # gem "rails"
 gem "sinatra"
 gem "shotgun"
-gem 'capybara'
-gem 'selenium-webdriver'
-gem 'pry'
+gem "capybara"
+gem "selenium-webdriver"
+gem "pry"
